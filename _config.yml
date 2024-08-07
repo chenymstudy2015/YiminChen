@@ -22,10 +22,10 @@ repository               : "chenymstudy2015.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yimin Chen"
   pronouns         : # example: "He/His"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Albany, CA"
   employer         : "Berkeley Lab"
   uri              : # URL
   email            : "chenym1979@gmail.com" 
