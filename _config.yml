@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Researcher / Site Title"
+title                    : "Yimin Chen"
 title_separator          : "-"
 name                     : &name "Yimin Chen"
 description              : &description "personal description"
@@ -31,13 +31,13 @@ author:
   email            : "chenym1979@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=iafPwggAAAAJ&hl=zh-TW&oi=ao"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3818-1655"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Yimin-Chen-25"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
