@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Architecture Engineering, Drexel University, 2019
+* M.S. in Electrical Engineering, Beijing Jiaotong University, 2009
+* B.S. in Industrial Automation, Beijing University of Civil Engineering and Architecture, 2002
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 03/2023-Present: Energy and Environmental Technology Researcher, Lawrence Berkeley National Laboratory
+  * Lead the development, deployment and demonstration of the novel HVAC system FDD and correction tools
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -34,12 +34,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Python
+  * MATLAB/SIMULINK
+  * R
+  * C, C#
+  * VB
+  * MySQL
+* SCADA and BAS tools
+  * LabVIEW
+  * Siemens Programmable Logic Controller (PLC)
+  * LonWorks Integration Tool
+* Modeling Tools
+  * EnergyPlus, OpenStudio
+  * Modelica
+  * TRNSYS
+* Data Analytics Tool
+  * Tableau
 
 Publications
 ======
