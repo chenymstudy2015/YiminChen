@@ -13,6 +13,9 @@ main:
     url: /maintenance/
     
   - title: "CV"
+    url: /cv/
+
+  - title: "Portfolio"
     url: /portfolio/
 
   #- title: "Talks"
