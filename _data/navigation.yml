@@ -4,10 +4,10 @@ main:
     url: /research/    
 
   - title: "Fault detection and diagnostics"
-    url: /fdd/
+    url: /HVAC_fdd/
 
   - title: "Autonomous building control"
-    url: /control/
+    url: /HVAC_auto_control/
 
   - title: "Smart maintenance"
     url: /maintenance/
