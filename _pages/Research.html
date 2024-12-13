@@ -1,9 +1,12 @@
 ---
 layout: archive
 title: "Research"
-permalink: /Research.html/
+permalink: /research.html/
 author_profile: true
 ---
+{% include base_path %}
 
-<p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
