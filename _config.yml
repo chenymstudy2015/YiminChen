@@ -24,11 +24,11 @@ author:
   avatar           : "background.jpeg"
   name             : "Yimin Chen"
   pronouns         : # example: "He/His"  
-  bio              : "Ph.D. IEEE Senior Member. ASHRAE Full Member"
+  bio              : "Ph.D., IEEE Senior Member. ASHRAE Full Member"
   location         : "Albany, CA"
   employer         : "Berkeley Lab"
   # uri              : # URL
-  email            : "chenym1979@gmail.com" 
+  email            : "chenyimincareer@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -203,6 +203,15 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  control:
+    output: true
+    permalink: /:collection/:path/  
+  fdd:
+    output: true
+    permalink: /:collection/:path/
+  maintenance:
+    output: true
+    permalink: /:collection/:path/  
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -275,6 +284,42 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _fdd
+  - scope:
+      path: ""
+      type: fdd
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true      
+  # _control
+  - scope:
+      path: ""
+      type: control
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _maintenance
+  - scope:
+      path: ""
+      type: maintenance
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
