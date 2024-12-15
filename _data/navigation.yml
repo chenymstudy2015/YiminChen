@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Research projects"
+  - title: "Research areas"
     url: /research/    
 
   - title: "Fault detection and diagnostics"
     url: /HVAC_fdd/
 
-  - title: "Autonomous building control"
-    url: /HVAC_auto_control/
+  - title: "High performance equipment"
+    url: /equipment/
+
+  - title: "Smart buildings"
+    url: /smart_buildings/
 
   - title: "Smart maintenance"
     url: /maintenance/
@@ -15,14 +18,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Portfolio"
-    url: /portfolio/
+#- title: "Portfolio"
+#    url: /portfolio/
 
-  #- title: "Talks"
-  #  url: /talks/    
+#- title: "Talks"
+#  url: /talks/    
           
- # - title: "Blog Posts"
- #   url: /year-archive/
+# - title: "Blog Posts"
+#   url: /year-archive/
     
   - title: "News"
     url: /news/
