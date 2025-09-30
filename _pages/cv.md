@@ -67,12 +67,11 @@ Skills
 * Data Analytics Tool
   * Tableau
 
-Publications
+Publications (Updated 09/30/2025)
 ======
+
 Journal articles 
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+======
 * Yimin Chen, Yifeng Hu, Guanjing Lin, Yun Zhang, Shi Ye, Bo Shen. Evaluation of HVAC & refrigeration system fault behaviors and impacts: A systematic review, Journal of Building Engineering. 112(2025), 1-24. DOI: https://doi-org.ornl.idm.oclc.org/10.1016/j.jobe.2025.113609
 * Armando Casillas, Yimin Chen, Jessica Granderson, Guanjing Lin, Zhelun Chen, Jin Wen, Sen Huang. Development of High Fidelity Air Handling Unit Fault Models for FDD Innovation: Lessons Learned and Recommendations. Journal of Building Performance Simulation. DOI: https://     *doi.org/10.1080/19401493.2024.2382757
 * Yimin Chen, Zhelun Chen, Guanjing Lin, Yun Zhang, Shi Ye. A novel evaluation method of measurement sensitivities on common faults in VAV HVAC systems, Building and Environment. 261(2024), 1-17. DOI: https://doi.org/10.1016/j.buildenv.2024.111683
@@ -109,8 +108,32 @@ Journal articles
 * Yimin Chen, Dong Wei, Zhixin Chen, Lifeng Sun.  “Research on the Construction of Laboratory of LonWorks Fieldbus Technology and the Practical Teaching”. Research and Exploration in Laboratory. 5(2007).61-63. (In Chinese)
 * Duhai Zhou, Yimin Chen. “Discussion on Teaching Methods of Electronic Technique Curriculum Practice of Automation Major”. Research and Exploration in Laboratory. 24(2005). 70-72. (In Chinese)
 * Dong Wei, Yimin Chen. “Research on Course Design and Exercise of Computer Control System”. Research and Exploration in Laboratory. 24(2005). 219-223. (In Chinese) 
-  
- 
+
+======
+Conference articles 
+======  
+* Yimin Chen, Eliot Crowe, Jessica Granderson. Development of Self-correction Algorithms for Thermostats Using OpenAPI Capabilities. Proceeding of 2024 8th International High Performance Buildings Conference at Purdue. West Lafayette, IN, U.S. July 14-18, 2024
+* Yimin Chen, Eliot Crowe, Guanjing Lin, Jessica Granderson. Integration of FDD Data to Enhance HVAC System Maintenance. BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, November 9, 2022.  Pages 492–495. DOI: https://doi.org/10.1145/3563357.3567405
+* Marco Pritoni, Guanjing Lin, Yimin Chen, John House, Eliot Crowe, Jessica Granderson. Market Barriers and Drivers for the Next Generation Fault Detection and Diagnostics Tools. ACEEE Summer Study 2022 Conference. Pacific Grove, CA. U.S. August 21-25, 2022
+* Eliot Crowe, Yimin Chen, Jessica Granderson, Hayden Reeve, Lucas Troup, David Yuill, Yuxuan Chen. What We Learned from Analyzing 18 Million Rows of Commercial Buildings’ HVAC Fault Data. ACEEE Summer Study 2022 Conference. Pacific Grove, CA. U.S. August 21-25, 2022
+* Armando Casillas, Yimin Chen, Guanjing Lin, Jessica Granderson, Sen Huang, Zhelun Chen, Modeling Air Handling Units to Create a Diverse Fault Dataset for FDD Innovation: Lessons Learned and Recommendations, Proceeding of 2022 7th International High Performance Buildings Conference at Purdue. West Lafayette, IN. U.S. July 10, 2022.
+* Yimin Chen, Zhelun Chen, Guanjing Lin, Jin Wen, Jessica Granderson. A simulation-based method to analyze fan coil unit fault impacts. 2022 ASHRAE Annual Conference. Toronto, Canada. June 25, 2022
+* Ojas Pradhan, Jin Wen, Yimin Chen, Xing Lu, Mengyuan Chu, Yangyang Fu, Teresa Wu, K. Selcuk Candan. Dynamic Bayesian Network-Based Fault Diagnosis for ASHRAE Guideline 36: High Performance Sequence of Operation for HVAC Systems. BuildSys '21: Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. November 2021. Pages 365–368. DOI: https://doi.org/10.1145/3486611.3491124
+* Guanjing Lin, Marco Pritoni, Yimin Chen, Ralph Vitti, Christopher Weyandt, Jessica Granderson. Fault “Auto-correction” for HVAC Systems: A Preliminary Study. 2021 Purdue High Performance Buildings Conference, West Lafayette, IN, USA. May 10. 2021
+* Amir Ebrahimifakhar, David Yuill, Amanda D. Smith, Jessica Granderson, Eliot Crowe, Yimin Chen, Hayden Reeve. Analysis of Automated Fault Detection and Diagnosis Records as an Indicator of HVAC Fault Prevalence: Methodology and Preliminary Results. 2021 Purdue High Performance Buildings Conference, West Lafayette, IN, USA. May 11. 2021
+* Yimin Chen, Eliot Crowe, Guanjing Lin, Jessica Granderson. What's in a Name? Developing a Standardized Taxonomy for HVAC System Faults. ACEEE Summer Study 2020. Pacific Grove, CA. U.S. August 16-18, 2020.
+* Guanjing Lin, Marco Pritoni, Yimin Chen, Kozlen S Moromisato Ricardo, Jessica Granderson. Can We Fix It Automatically? Development of Fault Auto-correction Algorithms for HVAC and Lighting Systems. ACEEE Summer Study 2020. Pacific Grove, CA. U.S. August 16-18, 2020.
+* Yimin Chen, Vikas Chandan, Yunzhi Huang, M.J.E. Alam, Lane Smith, Osman Ahmed “Coordination of Behind-the-Meter Energy Storage and Building Loads Optimization with Deep Learning Models”, 2019 ACM International Workshop on Applied Machine Learning for Intelligent Energy Systems (AMLIES). Phoenix, AZ. June 5, 2019
+* Junhua Zhuang, Yimin Chen. “Cascade control for supply air temperature in a variable air volume system”, 2018 The 4th IBPSA Asia Conference. Hongkong, China. December 3-5, 2018
+* Yimin Chen, Jin Wen. “Development and Field Evaluation of Data-Driven Whole Building Fault Detection and Diagnosis Strategy”, 2018 Prognostics and Health Management, Philadelphia, PA, USA. September 24-27, 2018. DOI: https://doi.org/10.36001/phmconf.2018.v10i1.517
+* Yimin Chen, Jin Wen, Taiyu Chen, Ojas Pradhan. “Bayesian Networks for Whole Building Level Fault Diagnosis and Isolation”, 2018 Purdue High Performance Buildings Conference, West Lafayette, IN, USA. July 9-12, 2018
+* Yimin Chen, Jin Wen. “A Whole Building Fault Detection Using Weather Based Pattern Matching and Feature Based PCA Method”, 2017 IEEE International Conference on Big Data (IEEE Big Data 2017) Boston, MA, USA. December 11-14, 2017
+* Junhua Zhuang, Xiangguang Chen, Yimin Chen. “Model Predictive Control with Feedforward Structure for Chilled Water Temperature in HVAC System”, 2017 China Automation Conference (CAC 2017) Jinan, Shandong, China. September 22-23, 2017
+* Yimin Chen, Jin Wen. “Whole Building System Fault Detection Based on Weather Pattern Matching and PCA Method”, 2017 3rd International Conference on Control Science and Systems Engineering (ICCSSE 2017). Beijing, China. August 18-19, 2017
+* Junhua Zhuang, Xiangguang Chen, Yimin Chen. “Dynamic Modeling of Indoor Air Temperature Based on Power Spectral Density Method”, 2017 3rd International Conference on Control Science and Systems Engineering (ICCSSE 2017). Beijing, China. August 18-19, 2017
+* Yimin Chen, Jin Wen, Adam Reigner. “Using Pattern Matching and Principal Component Analysis Method for Whole Building Fault Detection”. 2017 ASHRAE Annual Conference. Long Beach, CA, USA. June 25-28, 2017
+* Yimin Chen, Jie Wu, Zhuangju Li, Junhua Zhuang, Dong Wei. “Research on VAV-box Control Performance Evaluation Based on Hardware and Software Simulation”. IBPSA Asia Conference, Nagoya, Japan. Nov. 21-23, 2014
+
 Service and leadership (updated 09/30/2025)
 ======
 * Guest editor: MDPI Buildings
