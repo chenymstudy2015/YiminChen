@@ -47,30 +47,10 @@ Work experience
   * Led the development of innovative control strategies to enhance ice tank thermal energy storage-based HVAC systems’ operations
   * Led the development and deployment of a novel data-collection and monitoring system for testing VAV terminal unit’s performance
 
-Skills
-======
-* Programming Language
-  * Python
-  * MATLAB/SIMULINK
-  * R
-  * C, C#
-  * VB
-  * MySQL
-* SCADA and BAS tools
-  * LabVIEW
-  * Siemens Programmable Logic Controller (PLC)
-  * LonWorks Integration Tool
-* Modeling Tools
-  * EnergyPlus, OpenStudio
-  * Modelica
-  * TRNSYS
-* Data Analytics Tool
-  * Tableau
-
 Publications (Updated 09/30/2025)
 ======
 
-Journal articles 
+-Journal articles 
 ======
 * Yimin Chen, Yifeng Hu, Guanjing Lin, Yun Zhang, Shi Ye, Bo Shen. Evaluation of HVAC & refrigeration system fault behaviors and impacts: A systematic review, Journal of Building Engineering. 112(2025), 1-24. DOI: https://doi-org.ornl.idm.oclc.org/10.1016/j.jobe.2025.113609
 * Armando Casillas, Yimin Chen, Jessica Granderson, Guanjing Lin, Zhelun Chen, Jin Wen, Sen Huang. Development of High Fidelity Air Handling Unit Fault Models for FDD Innovation: Lessons Learned and Recommendations. Journal of Building Performance Simulation. DOI: https://     *doi.org/10.1080/19401493.2024.2382757
@@ -109,8 +89,7 @@ Journal articles
 * Duhai Zhou, Yimin Chen. “Discussion on Teaching Methods of Electronic Technique Curriculum Practice of Automation Major”. Research and Exploration in Laboratory. 24(2005). 70-72. (In Chinese)
 * Dong Wei, Yimin Chen. “Research on Course Design and Exercise of Computer Control System”. Research and Exploration in Laboratory. 24(2005). 219-223. (In Chinese) 
 
-======
-Conference articles 
+-Conference articles 
 ======  
 * Yimin Chen, Eliot Crowe, Jessica Granderson. Development of Self-correction Algorithms for Thermostats Using OpenAPI Capabilities. Proceeding of 2024 8th International High Performance Buildings Conference at Purdue. West Lafayette, IN, U.S. July 14-18, 2024
 * Yimin Chen, Eliot Crowe, Guanjing Lin, Jessica Granderson. Integration of FDD Data to Enhance HVAC System Maintenance. BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, November 9, 2022.  Pages 492–495. DOI: https://doi.org/10.1145/3563357.3567405
