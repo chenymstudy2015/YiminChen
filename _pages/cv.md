@@ -69,9 +69,46 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Journal articles 
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+* Yimin Chen, Yifeng Hu, Guanjing Lin, Yun Zhang, Shi Ye, Bo Shen. Evaluation of HVAC & refrigeration system fault behaviors and impacts: A systematic review, Journal of Building Engineering. 112(2025), 1-24. DOI: https://doi-org.ornl.idm.oclc.org/10.1016/j.jobe.2025.113609
+* Armando Casillas, Yimin Chen, Jessica Granderson, Guanjing Lin, Zhelun Chen, Jin Wen, Sen Huang. Development of High Fidelity Air Handling Unit Fault Models for FDD Innovation: Lessons Learned and Recommendations. Journal of Building Performance Simulation. DOI: https://     *doi.org/10.1080/19401493.2024.2382757
+* Yimin Chen, Zhelun Chen, Guanjing Lin, Yun Zhang, Shi Ye. A novel evaluation method of measurement sensitivities on common faults in VAV HVAC systems, Building and Environment. 261(2024), 1-17. DOI: https://doi.org/10.1016/j.buildenv.2024.111683
+* Shanshan Wan, Mengnan Zhao, Yimin Chen, Shuyue Yang, Dongwei Qiu, James Lo. A Novel Data-Driven Relationship Inference Approach for Automatic Data Tagging in Building Heating, Ventilation and Air Conditioning Systems. Building and Environment 246 (2023), 1-12. DOI: https://doi.org/10.1016/*j.buildenv.2023.110968
+* Eliot Crowe, Yimin Chen, Hayden Reeve, David Yuill, Amir Ebrahimifakhar, Yuxuan Chen, Lucas Troup, Amanda Smith, Jessica Granderson. Empirical Analysis of the Prevalence of HVAC Faults in Commercial Buildings. Science and Technology of Built Environment. 0 (2023), 1-12. DOI: *10.1080/23744731.2023.2263324
+* Jessica Granderson, Guanjing Lin, Yimin Chen, Armando Casillas, Jin Wen, Zhelun Chen, Piljae Im, Sen Huang, and Jiazhen Ling. A labeled dataset for building HVAC systems operating in faulted and fault-free states. Scientific Data 10. 342 (2023). https://doi.org/10.1038/s41597-023-02197-w (Corresponding author)
+* Zhelun Chen, Zheng O’Neill, Jin Wen, Ojas Pradhan, Tao Yang, Xing Lu, Guanjing Lin, Shohei Miyatad, Seungjae Lee, Chou Shen, Roberto Chiosa, Marco Savino Piscitelli, Alfonso Capozzoli, Franz Hengel, Alexander Kührer, Marco Pritoni, Wei Liu, John Clauß, Yimin Chen and Terry Herr. A review of data-driven fault detection and diagnostics for building HVAC systems. Applied Energy 339(2023), DOI: https://doi.org/10.1016/j.apenergy.2023.121030
+* Guanjing Lin, Marco Pritoni, Yimin Chen, Ralph Vitti, Christopher Weyandt, Jessica Granderson. Implementation and test of an automated control hunting fault correction algorithm in a fault detection and diagnostics tool. Energy and Buildings 283(2023), DOI: https://doi.org/10.1016/j.enbuild.2023.112796
+* Yimin Chen, Jin Wen, Ojas Pradhan, James Lo, Teresa Wu. Using Discrete Bayesian Networks for Diagnosing and Isolating Cross-level Faults in HVAC systems, Applied Energy 327(2022), DOI: https://doi.org/10.1016/j.apenergy.2022.120050
+* Yimin Chen, Guanjing Lin, Zhelun Chen, Jin Wen, Jessica Granderson. A simulation-based evaluation of fan coil units fault effects, Energy and Buildings. 263(2022), DOI: https://doi.org/10.1016/j.enbuild.2022.112041
+* Marco Pritoni, Guanjing Lin, Yimin Chen, Raphael Vitti, Christopher Weyandt, Jessica Granderson. From fault-detection to automated fault correction: an empirical study. Building and Environment. 214(2022), DOI: https://doi.org/10.1016/j.buildenv.2022.108900
+* Yimin Chen, Jin Wen, James Lo. Using Weather and Schedule based Pattern Matching and Feature based PCA for Whole Building Fault Detection -- Part II Field Evaluation. ASME Journal of Engineering for Sustainable Buildings and Cities. 2022, 3(1), https://doi.org/10.1115/1.4052730
+* Yimin Chen, Jin Wen, James Lo. Using Weather and Schedule based Pattern Matching and Feature based PCA for Whole Building Fault Detection -- Part I Development of the Method. ASME Journal of Engineering for Sustainable Buildings and Cities. 2022, 3(1), DOI: doi.org/10.1115/1.4052729
+* Yimin Chen, Guanjing Lin, Eliot Crowe, Jessica Granderson, Development of a Unified Taxonomy for HVAC System Faults, Energies. 2021.14, DOI: doi.org/10.3390/en14175581 (Selected as the Interesting Contribution by the editor)
+* Ojas Pradhan, Jin Wen, Yimin Chen, Teresa Wu. Dynamic Bayesian Network for Fault Diagnosis. ASHRAE Transactions, 2021, Vol 127, Issue 2 (Extended Abstract).
+* Janghyun Kim, Trenbath Kim, Jessica Granderson, Yimin Chen, Eliot Crowe, Hayden Reeve, Sarah Newman, Paul Ehrlich. Research challenges and directions in HVAC fault prevalence, Science and Technology of Built Environment. 2021, 4, 624-640, DOI:
+* 10.1080/23744731.2021.1898243
+* Guanjing Lin, Marco Pritoni, Yimin Chen, Jessica Granderson. 2020, Development and Implementation of Fault-Correction Algorithms in Fault Detection and Diagnostics Tools, Energies. 2020, 13, 2598; doi:10.3390/en13102598
+* Junhua Zhuang, Yimin Chen, Xiangguang Chen. “A new simplified modeling method for model predictive control in a medium-sized commercial building: A case study”. Building and Environment. 127(2018), 1-12; dx.doi.org/10.1016/j.buildenv.2017.10.022
+* Junhua Zhuang, Yimin Chen, Xiaoxia Shi, Dong Wei. “Building Cooling Load Prediction Based on Time Series Method and Neural Networks”.  International Journal of Grid Distribution Computing. Vol 8, No. 4 (2015). 105-114. http://dx.doi.org/10.14257/ijgdc.2015.8.4.10
+* Mingzhu Zhang, Huaiqun Wang, Yimin Chen. “Development of PCBs functional tester with relay matrix network”. Applied Mechanics and Materials, Vols. 336-338(2013), 76-79
+* Dongling Ma, Yimin Chen. “Public Utility Tunnel Planning and Overhead Lines Underground Laying in Beijing”.  Municipal Engineering Technology. 5(2014). 120-123
+* Jingwan Liu, Dong Wei, Yimin Chen, Junhua Zhuang, Juan Yu. “Analysis on the Control Strategy of Central Cooling Plant”. Electrical Application. 6(2013). 82-86. (In Chinese)
+* Duhai Zhou, Yimin Chen. “LabVIEW virtual instrument FFT spectrum analyzer based on DSP technology”. Micro-computer Application. 13(2010). 66-68. (In Chinese)
+* Yimin Chen, Yi Lu, Duhai Zhou, Junhua Zhuang. “Research on Module of Temperature Monitoring Based on LonWorks Power Line Communication Technology”. CHINA INSTRUMENTATION. 12(2009). 36-38. (In Chinese)
+* Yimin Chen, Hongwen Li, Xiaoqing Zhang, Jinbo Shen. “Research on Influencing Factors on Temperature Rise in Terminals of MCCB”. Low-Voltage Apparatus. 13(2009). 7-9. (In Chinese)
+* Yimin Chen, Qing Fan, Duhai Zhou, Junhua Zhuang. “Energy Saving Monitoring System in Building Based on Web Technology and LonWorks Fieldbus”. Low-Voltage Apparatus. 24(2008). 1-3. (In Chinese)
+* Qing Fan, Yimin Chen. “Design of Room Environment Data-collecting System Based on ARM Embedded Technology”. PLC & FA. 5(2008). 93-95. (In Chinese)
+* Zhijian Jiang, Ru Luan, Yimin Chen, Dan Zhou, “Research on the Topology to Low Cost Tolerant Type Three-Phase Inverter in Engineering”. Electrical Application. 12(2007). 136-139. (In Chinese)
+* Yimin Chen, Qing Fan, Lin Deng. “Application of Network Monitor and Control System Based on LNS DDE Server”. Journal of Beijing Institute of Civil Engineering and Architecture. 12(2006). 59-61. (In Chinese)
+* Yimin Chen. “Discussion on Smart Home Designing”. Information of Intelligent Building and City. 11(2004). 17-20. (In Chinese)
+* Yimin Chen, Dong Wei, Duhai Zhou, Mingzhu Zhang. “Research on the practical teaching of electricity and electronics at University of Minnesota in the USA. Experimental Technology and Management”. 8(2013). 175-178. (In Chinese)
+* Yimin Chen, Hongyan Ma, Mingzhu Zhang. “Research on electrical engineering education program for undergraduates at University of Minnesota in the USA”. Experimental Technology and Management. 12(2012). 175-178. (In Chinese)
+* Yimin Chen, Dong Wei, Zhixin Chen, Lifeng Sun.  “Research on the Construction of Laboratory of LonWorks Fieldbus Technology and the Practical Teaching”. Research and Exploration in Laboratory. 5(2007).61-63. (In Chinese)
+* Duhai Zhou, Yimin Chen. “Discussion on Teaching Methods of Electronic Technique Curriculum Practice of Automation Major”. Research and Exploration in Laboratory. 24(2005). 70-72. (In Chinese)
+* Dong Wei, Yimin Chen. “Research on Course Design and Exercise of Computer Control System”. Research and Exploration in Laboratory. 24(2005). 219-223. (In Chinese) 
   
  
 Service and leadership (updated 09/30/2025)
